@@ -50,3 +50,4 @@ assignees: ''
 
 ---
 *Баг-репорт создан в рамках учебного проекта для портфолио тестировщика*
+Add bug report template in Russian
